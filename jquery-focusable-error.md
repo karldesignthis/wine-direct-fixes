@@ -1,6 +1,6 @@
 # Focusable jQuery Issue
 
-The following code fixes the jQuery UI split of focusable that Wine Direct calls. This creates a "plugin" version of it.
+The following code fixes the jQuery UI split of focusable that Wine Direct calls. This creates a "plugin" version of it. Add to the scripts library or add as its own javascript file.
 
 ```
 (function($) {
